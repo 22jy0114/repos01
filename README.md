@@ -1,5 +1,5 @@
 # repos01
 ## repos01
-### repse01u
-#### repos0１
+### repse01
+#### repos01
 GitHubの練習用のリポジトリ
